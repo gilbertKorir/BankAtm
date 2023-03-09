@@ -1,0 +1,8 @@
+C:\Users\jaredgilbert\source\repos\BankAtm\BankAtm\bin\Debug\BankAtm.exe.config
+C:\Users\jaredgilbert\source\repos\BankAtm\BankAtm\bin\Debug\BankAtm.exe
+C:\Users\jaredgilbert\source\repos\BankAtm\BankAtm\bin\Debug\BankAtm.pdb
+C:\Users\jaredgilbert\source\repos\BankAtm\BankAtm\obj\Debug\BankAtm.csproj.AssemblyReference.cache
+C:\Users\jaredgilbert\source\repos\BankAtm\BankAtm\obj\Debug\BankAtm.csproj.SuggestedBindingRedirects.cache
+C:\Users\jaredgilbert\source\repos\BankAtm\BankAtm\obj\Debug\BankAtm.csproj.CoreCompileInputs.cache
+C:\Users\jaredgilbert\source\repos\BankAtm\BankAtm\obj\Debug\BankAtm.exe
+C:\Users\jaredgilbert\source\repos\BankAtm\BankAtm\obj\Debug\BankAtm.pdb
